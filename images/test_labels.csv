@@ -1,0 +1,6 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+aug_image_0_867.jpg,800,600,butt_weld_90,167,189,495,505
+aug_image_0_278.jpg,800,600,butt_weld_90,169,209,663,506
+aug_image_0_642.jpg,800,600,butt_weld_90,185,119,461,497
+aug_image_0_180.jpg,800,600,butt_weld_90,153,271,638,539
+aug_image_0_403.jpg,800,600,butt_weld_90,123,223,743,550
